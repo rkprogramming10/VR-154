@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scuba the Submersible
+* source:	https://sketchfab.com/3d-models/scuba-the-submersible-f7974ccdda9e4ab9be4ed43f785e2a75
+* author:	sounakg (https://sketchfab.com/sounakg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scuba the Submersible" (https://sketchfab.com/3d-models/scuba-the-submersible-f7974ccdda9e4ab9be4ed43f785e2a75) by sounakg (https://sketchfab.com/sounakg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
